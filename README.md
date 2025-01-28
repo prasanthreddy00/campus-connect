@@ -9,7 +9,7 @@
 #vijaya
 ## user and user profile management
 ## events discovery and search
-#geeetha
+#geetha
 ## social interaction
-#kiraqm
+#kiran
 ## linking of map and location of the event.
